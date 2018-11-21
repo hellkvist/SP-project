@@ -124,4 +124,4 @@ axs[0, 1].legend(loc='upper right')
 axs[1, 1].plot(t05min, 10*np.log10((eTestVec)**2/np.average(xTMissing)**2), label='10log10(nse^2)')
 axs[1, 1].set_title('normalized square error in dB (TEST)')
 plt.show()
-# hello github
+# hello github a
